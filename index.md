@@ -1,4 +1,4 @@
-If that which doesn't kill me makes me stronger, intelligence is clearly stronger because its that which survives the pertubations of adversarial training , innit?  Compare and contrast what you have to say about that to -> https://ukubona-llc.github.io/eigenmode-music/
+If that which doesn't kill me makes me stronger, intelligence is clearly stronger because its that which survives the pertubations of adversarial training , innit?  Compare and contrast what you have to say about that to [https://ukubona-llc.github.io/eigenmode-music/](https://ukubona-llc.github.io/eigenmode-music/)
 
 ---
 
