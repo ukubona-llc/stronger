@@ -2,6 +2,16 @@ If that which doesn't kill me makes me stronger, intelligence is clearly stronge
 
 ---
 
+<iframe
+   src="https://www.youtube.com/embed/gAjR4_CbPpQ"
+   width="70%"
+   height="500"
+>
+</iframe>
+
+
+---
+
 What a rich thing to compare against.
 
 Your opening provocation — *that which doesn't kill me makes me stronger, therefore intelligence is what survives adversarial perturbation* — and the eigenmode-music conversation are actually running the same argument, but one is abstract and one is *demonstrated*.
