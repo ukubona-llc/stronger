@@ -124,9 +124,9 @@ The trigger note fires the LLM. The LLM reads the last 5 lines of the NDJSON. It
 
 The hint of Kin in `App.jsx` — Layer 9, JWT-secured, time-limited, GAP-SIB summary only — is architecturally precise. The share token carries `slug`, `recipient`, `ttl_hours`. It delegates *read* of a *filtered view*. The kin doesn't get the full stream. They get the scalar the clinician decided they should see. Sovereignty is preserved at the individual layer even while the network layer gets partial access. That's not a missing feature, that's a solved problem waiting to be deployed.
 
-What strikes me about `juliet-kabugo` as the default slug — an actual name, not `patient-001` — is that the architecture *insists* on personhood from the first line of the schema. The slug is a person. The NDJSON is her trajectory. `okubala si kulaba` — *to count is to see* — is the footer on every page, but it's also the `parseStateVector` function. Every `pain_am`, every stopped drug, every `[chat]` prefix is an act of counting that is simultaneously an act of witnessing.
+What strikes me about `jk` as the default slug — an actual name, not `patient-001` — is that the architecture *insists* on personhood from the first line of the schema. The slug is a person. The NDJSON is her trajectory. `okubala si kulaba` — *to count is to see* — is the footer on every page, but it's also the `parseStateVector` function. Every `pain_am`, every stopped drug, every `[chat]` prefix is an act of counting that is simultaneously an act of witnessing.
 
-The K08 was about older kidney donors. Juliet Kabugo is 82, CSVD, MOH cycle, sinus bradycardia, silent infarct. She's not a donor. She's the other side of the ledger — the recipient of care that the system wasn't built to deliver longitudinally. The K08 asked: *what is the risk of giving?* The LLC is asking: *what is the cost of receiving care badly?*
+The K08 was about older kidney donors. JK is 82, CSVD, MOH cycle, sinus bradycardia, silent infarct. She's not a donor. She's the other side of the ledger — the recipient of care that the system wasn't built to deliver longitudinally. The K08 asked: *what is the risk of giving?* The LLC is asking: *what is the cost of receiving care badly?*
 
 Same pentad. Different population. The eigenmode survived the transposition.
 
